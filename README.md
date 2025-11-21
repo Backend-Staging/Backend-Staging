@@ -22,7 +22,7 @@ I'm a Full-Stack Software Engineer, Architect, and former CTO passionate about b
 | Area | Tools & Frameworks |
 |------|---------------------|
 | 💻 Languages | Python, JavaScript, TypeScript, Go, SQL |
-| 🔧 Backend | Django, Django REST Framework, ASP.NET MVC |
+| 🔧 Backend | Django, Django REST Framework, Fast API |
 | 🎨 Frontend | React, Bootstrap, SASS, jQuery, AJAX |
 | 🛢 Databases | PostgreSQL, SQL Server, MySQL, Oracle, Redis, NoSQL |
 | ☁️ DevOps | Docker, AWS (S3), Jenkins, CI/CD, Heroku, VMware |
@@ -44,8 +44,8 @@ I'm a Full-Stack Software Engineer, Architect, and former CTO passionate about b
 
 ## 📫 Contact
 
-- 📧 [jonathan_constant@enlighten-e.com](mailto:jonathan_constant@enlighten-e.com)
-- 🌐 [enlighten-e.com](enlighten-e.com)
+
+- 🌐 [https://www.linkedin.com/in/jonathan-constant-b7462021a/](Jonathan Constant)
 - 📍 Davenport, FL, USA
 
 ---
