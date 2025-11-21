@@ -45,7 +45,7 @@ I'm a Full-Stack Software Engineer, Architect, and former CTO passionate about b
 ## 📫 Contact
 
 
-- 🌐 [https://www.linkedin.com/in/jonathan-constant-b7462021a/](Jonathan Constant)
+- 🌐 [Jonathan Constant](https://www.linkedin.com/in/jonathan-constant-b7462021a/)
 - 📍 Davenport, FL, USA
 
 ---
